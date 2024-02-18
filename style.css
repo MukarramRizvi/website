@@ -1,0 +1,272 @@
+.AB{
+background-color: #004274;
+color: white;
+height: 70px;
+}
+.SS{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+.DD{
+    background-color: #00AEFF;
+    border-radius: 7px;
+    border: 1px solid black;
+    position: relative;
+    top: 12px;
+    left: 790px;
+    width: 85px;
+    height: 38px;
+}
+.WW{
+    position: relative;
+    top: 12px;
+    left: 110px;
+}
+.GG{
+    font-size: 16px;
+    position: relative;
+    top: 20px;
+    left: 150px;
+}
+.TT{
+    font-size: 16px;
+    position: relative;
+    top: 20px;
+    left: 185px;
+}
+.TE{
+    font-size: 16px;
+    position: relative;
+    top: 20px;
+    left: 215px;
+}
+.TW{
+    font-size: 16px;
+    position: relative;
+    top: 20px;
+    left: 245px;
+}
+.TQ{
+    font-size: 16px;
+    position: relative;
+    top: 20px;
+    left: 275px;
+}
+.TO{
+    font-size: 16px;
+    position: relative;
+    top: 20px;
+    left: 750px;
+}
+.YU{
+    font-size: 19px;
+    position: relative;
+    top: 17px;
+    left: 760px;
+}
+.JN{
+  
+    color: black;
+    height: 50px;
+    position: relative;
+    top: 6px;
+    text-align: center;
+}
+.gv{
+    width: 300px;
+    padding: 7px;
+}
+.hy{
+    border: 1px solid black;
+    background-color: #004274;
+    color: white;
+    height: 41px;
+    width: 80px;
+    position: relative;
+    top: -1px;
+    border-radius: 3px;
+}
+.wr{
+    padding: 3px;
+    width: 80px;
+    height: 41px;
+    border-radius: 3px;
+}
+.ug{
+    padding: 3px;
+    width: 80px;
+    height: 41px;
+    border-radius: 3px;
+}
+.kh{
+    padding: 3px;
+    width: 80px;
+    height: 41px;
+    border-radius: 3px;
+}
+.fg{
+    border: 1px solid black;
+    width: 100%;
+    color: white;
+    height: 680px;
+    background-image: url(./h1_hero1.jpg);
+    background-repeat: no-repeat
+    
+}
+.gf{
+    position: relative;
+    top: 230px;
+    left: 200px;
+    color: white;
+
+}
+.ty{
+    border: 1px solid black;
+    position: relative;
+    left: -20px;
+    background-color: #00AEFF;
+    color: white;
+    border-radius: 8px;
+    height: 40px;
+}
+.ee{
+    position: relative;
+    top: 40px;
+    text-align: center;
+}
+.de{
+ margin-top: 70px;
+}
+.yy{
+    margin-top: 5px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    width: 100%;
+    color: white;
+    height: 550px;
+    background-image: url(./section-bg1.jpg);
+    background-repeat: no-repeat
+}
+.IU{
+    position: relative;
+    top: 80px;
+    left: 40%;
+}
+.hg{
+    border: 1px solid 00A0EB;
+    background-color: #00A0EB;
+    height: 300px;
+    width: 330px;
+}
+.www{
+    position: relative;
+    top: 100px;
+    left: 300px;
+    display: flex;
+}
+.lk{
+    position: relative;
+    top: 23px;
+    left: 113px;
+}
+.aw{
+    position: relative;
+    top: 100px;
+}
+.tr{
+    position: relative;
+    top: 75px;
+    
+}
+.bv{
+    position: relative;
+    left: 40%;
+}
+.hh{
+    background-color: #F2F4F8;
+    width: 100%;
+    height: 300px;
+}
+.kj{
+    border: 1px solid white;
+    width: 250px;
+    height: 200px;
+}
+.xx{
+    display: flex;
+    position: relative;
+    top: -160px;
+    left: 500px;
+}
+.zz{
+ margin-left: 80px;
+ margin-top: 30px;
+}
+.ll{
+    position: relative;
+    left: 50px;
+}
+.ew{
+    position: relative;
+    left: 50px;
+    top: 30px;
+}
+.ku{
+    position: relative;
+    left: 50px;
+    top: 30px;
+}
+.te{
+    position: relative;
+    top: 50px;
+    left: 45%;
+}
+.oo{
+    position: relative;
+    top: 50px;
+    left: 39%;
+}
+.pi{
+    position: relative;
+    left: 50px;
+}
+.xc{
+    display: flex;
+}
+.zx{
+    border: 1px solid;
+    width: 50%;
+    height: 300px;
+    position: relative;
+    top: 20px;
+    background-color: #004274;
+    color: white;
+}
+.xz{
+    border: 1px solid;
+    width: 50%;
+    height: 300px;
+    position: relative;
+    top: 20px;
+}
+.bbb{
+    border: 1px solid white;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    position: relative;
+    top: 50px;
+    left: 50px;
+  
+}
+.qt{
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+.ht{
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
